@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo/logo.png" alt="Ayu IDE Logo" width="200" height="200">
+  <img src="logo/logo.png" alt="Ayu IDE Logo" width="200" height="200">
   
   # Ayu IDE
   
