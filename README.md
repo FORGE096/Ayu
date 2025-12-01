@@ -150,7 +150,7 @@ Ayu IDE includes a comprehensive library of blocks for:
 
 1. **Download the Latest Release**
 
-   - Visit our [Releases](https://github.com/yourusername/ayuide/releases) page
+   - Visit our [Releases](https://github.com/FORGE096/ayu/releases) page
    - Download the latest Windows installer
    - Run the installer and follow the setup wizard
 
