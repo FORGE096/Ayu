@@ -5,7 +5,7 @@
   
   ### 🎨 Visual Programming IDE for Minecraft Plugins
   
-  [![Version](https://img.shields.io/badge/version-0.0.1-blue.svg)](https://github.com/FORGE096/ayu)
+  [![Version](https://img.shields.io/badge/version-0.0.3-1-blue.svg)](https://github.com/FORGE096/ayu)
   [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
   [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
   [![Flutter](https://img.shields.io/badge/flutter-3.9.2-blue.svg)](https://flutter.dev)
